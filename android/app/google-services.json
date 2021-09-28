@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "337035714277",
+    "project_id": "bodiedbyques-c9080",
+    "storage_bucket": "bodiedbyques-c9080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337035714277:android:695ea734a3b6cda7fa3e0c",
+        "android_client_info": {
+          "package_name": "com.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337035714277-d80rdgtjavmj5kuibotf2eongc9hhejt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWT0-vIvyx1d1eruXfjq4eq5sru6WAWfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337035714277-d80rdgtjavmj5kuibotf2eongc9hhejt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337035714277-rp4hh57gtcv0u52c3rl1c971d1e4uk90.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AuthApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
