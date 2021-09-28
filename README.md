@@ -1,1 +1,1 @@
-# bbqapp
+# exerciseapp
